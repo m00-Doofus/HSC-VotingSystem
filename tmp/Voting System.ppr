@@ -1,0 +1,59 @@
+[Config]
+Relative path=1
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+Voting System
+	+0-Front Ends
+		index.php
+		Voter.php
+	+1-Back Ends (App)
+		App\AjaxLookups.php
+		App\config.php
+		App\SubmissionHandler.php
+		App\VoterServer.php
+	+2-Libraries
+		App\Lib\Class_VoteOpener.php
+		App\Lib\Db.php
+[Open project files]
+0=index.php
+1=Voter.php
+2=App\AjaxLookups.php
+3=App\VoterServer.php
+4=t:\hackerspace\comminication-api-examples\examples\longpolling\server.php
+5=App\Lib\Class_VoteOpener.php
+6=App\Lib\Db.php
+7=App\SubmissionHandler.php
+[Selected Project Files]
+Main=
+Selected=App\VoterServer.php
+[index.php]
+TopLine=92
+Caret=11,127
+[Voter.php]
+TopLine=43
+Caret=6,79
+[App\AjaxLookups.php]
+TopLine=1
+Caret=1,1
+[App\VoterServer.php]
+TopLine=7
+Caret=60,37
+[t:\hackerspace\comminication-api-examples\examples\longpolling\server.php]
+TopLine=1
+Caret=1,34
+[App\Lib\Class_VoteOpener.php]
+TopLine=1
+Caret=1,1
+[App\Lib\Db.php]
+TopLine=112
+Caret=15,130
+[App\SubmissionHandler.php]
+TopLine=1
+Caret=73,26

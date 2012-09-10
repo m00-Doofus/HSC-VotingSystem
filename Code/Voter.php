@@ -19,6 +19,9 @@ $VoteIsOpen = (int)$VoteOpener->fetchVoteOpenByRoomID($RoomID);
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-touch-fullscreen" content="yes" />
+  <link rel="apple-touch-icon" href="Images/hsc144.png" />
   <title>Voter Interface</title>
   <script type="text/javascript" src="App/Lib/jquery-1.8.0.min.js"></script>
 </head>
